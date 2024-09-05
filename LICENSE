@@ -19,3 +19,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+If you use this software in any publication, you must acknowledge the author 
+and cite the corresponding paper. The citation for the paper is
+
+Liu, Tianyi, Andreas M. Tillmann, Yang Yang, Yonina C. Eldar, and Marius Pesavento. “Extended Successive Convex Approximation for Phase Retrieval with Dictionary Learning.” IEEE Transactions on Signal Processing 70 (2022): 6300–6315. https://doi.org/10.1109/TSP.2022.3233253.
